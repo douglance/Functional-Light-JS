@@ -63,7 +63,7 @@ If you like this content and would like to contact me regarding conducting train
 
 ## Online Video Training
 
-I also have several JS training courses available in on-demand video format. I [teach courses](https://FrontendMasters.com/teachers/kyle-simpson) through [Frontend Masters](https://FrontendMasters.com), like my [Functional-Light JavaScript v2](https://frontendmasters.com/courses/functional-javascript-v2/) workshop. Some of my courses are also available on [PluralSight](https://www.pluralsight.com/search?q=kyle%20simpson&categories=all).
+I also have several JS training courses available in on-demand video format. I [teach courses](https://FrontendMasters.com/teachers/kyle-simpson) through [Frontend Masters](https://FrontendMasters.com), like my [Functional-Light JavaScript v3](https://frontendmasters.com/courses/functional-javascript-v3/) workshop. Some of my courses are also available on [PluralSight](https://www.pluralsight.com/search?q=kyle%20simpson&categories=all).
 
 ## Contributions
 
